@@ -1,5 +1,5 @@
 # Forensic Corpus
-A corpus of various file formats for (mostly) forensic testing.
+A corpus of various file formats for (mostly) forensic tool testing.
 
 > Files named `fox` follow the [Fox Standard Test Pattern](FSTP.md).
 
