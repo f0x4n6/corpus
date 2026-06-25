@@ -1,7 +1,7 @@
 # Forensic Corpus
 A corpus of various file formats for (mostly) forensic tool testing.
 
-> Files named `fox` follow the [Fox Standard Test Pattern](FSTP.md).
+> Files named `fox` follow the [Fox Standard Test Pattern](FOX.md).
 
 Sources:
 * Sample Active Directory from [Didier Stevens](https://blog.didierstevens.com/2016/07/12/practice-ntds-dit-file-part-1/)
